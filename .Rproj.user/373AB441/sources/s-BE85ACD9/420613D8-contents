@@ -21,8 +21,6 @@
   </head>
 
   <body>
-    
-     {% include sidebar.html %}
      
     <div class="wrapper-masthead">
       <div class="container">
@@ -35,7 +33,7 @@
           </div>
           
           <nav>
-            <a href="{{ site.baseurl }}/blog">Blog</a>
+            <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/indexbrief">Index</a>
             <a href="{{ site.baseurl }}/tags">Tags</a>
