@@ -24,7 +24,7 @@ For this project, the index was calculated using 5-year ACS estimates from 2013,
 
 
 
-![plot of chunk unnamed-chunk-3](figures/2018-9-13-first-post-unnamed-chunk-3-1.png)
+![plot of chunk unnamed-chunk-3](https://iecastro.github.io/figures/2018-9-13-first-post-unnamed-chunk-3-1.png)
 
 ## Diabetes Indicators
 
@@ -35,7 +35,7 @@ The spatial distribution of diabetes prevalence in 2013 (below) parallels that o
 
 
 
-![plot of chunk unnamed-chunk-5](figures/2018-9-13-first-post-unnamed-chunk-5-1.png)
+![plot of chunk unnamed-chunk-5](https://iecastro.github.io/figures/2018-9-13-first-post-unnamed-chunk-5-1.png)
 
 ## Data Analysis
 
@@ -81,11 +81,11 @@ stargazer(lm1,lm2, type ="html")
 
 ### Increases in county-level deprivation predict increases in diabetes prevalence.
 
-![plot of chunk unnamed-chunk-7](figures/2018-9-13-first-post-unnamed-chunk-7-1.png)
+![plot of chunk unnamed-chunk-7](https://iecastro.github.io/figures/2018-9-13-first-post-unnamed-chunk-7-1.png)
 
 
 
-![plot of chunk unnamed-chunk-8](figures/2018-9-13-first-post-unnamed-chunk-8-1.png)
+![plot of chunk unnamed-chunk-8](https://iecastro.github.io/figures/2018-9-13-first-post-unnamed-chunk-8-1.png)
 
 ### Interaction Term
 
@@ -100,8 +100,8 @@ Results summary
 ## 
 ## MODEL FIT:
 ## F(4,3137) = 1668.00, p = 0.00
-## R² = 0.68
-## Adj. R² = 0.68 
+## RÂ² = 0.68
+## Adj. RÂ² = 0.68 
 ## 
 ## Standard errors: OLS
 ##             Est. S.E. t val.    p    
@@ -115,7 +115,7 @@ Results summary
 ```
 
 
-![plot of chunk unnamed-chunk-10](figures/2018-9-13-first-post-unnamed-chunk-10-1.png)
+![plot of chunk unnamed-chunk-10](https://iecastro.github.io/figures/2018-9-13-first-post-unnamed-chunk-10-1.png)
 
 
 ## Spatial Auto-correlation of county prevalence
@@ -144,36 +144,6 @@ moran.plot(MapSP$diabetes,nb2listw(neighbors), zero.policy = FALSE,
            xlab="Diabetes Prevalence",ylab = "Spatially Lagged Diabetes Prevalence")
 ```
 
-![plot of chunk unnamed-chunk-12](figures/2018-9-13-first-post-unnamed-chunk-12-1.png)
+![plot of chunk unnamed-chunk-12](https://iecastro.github.io/figures/2018-9-13-first-post-unnamed-chunk-12-1.png)
 
-
-## Spatial Regression
-
-A geographically weighted regression (GWR) was fitted with an adapative kernel and AICCc bandwith parameter - conducted in ArcMap (version 10.2). 
-
-GWR estimates local models across an area by allowing the relationship between variables to vary by location. Inactivity variable was excluded from this model due to multicollinearity with obesity variable. 
-
-### Results 
-
-The GWR used 404 neighbors for each local estimation and accounted for 80% of variability in diabetes outcome. Local models accounted between 20% to 77% of variability in the outcome.
-
-GWR summary:
-
- Neighbors           : 404   
- 
- ResidualSquares     : 3022.5957759565522  
- 
- EffectiveNumber     : 83.492913855248489   
- 
- Sigma               : 0.99411194002147207  
- 
- AICc                : 8921.5582814951449  
- 
- R2                  : 0.80040748447829668  
- 
- R2Adjusted          : 0.79502414949644495  
-
-
-
-![plot of chunk unnamed-chunk-13](figures/2018-9-13-first-post-unnamed-chunk-13-1.png)
 
