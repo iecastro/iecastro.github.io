@@ -51,10 +51,10 @@ baseurl: ""
 # Markdown parser and other stuff
 #
 
-markdown: redcarpet
+markdown:
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
-highlighter: pygments
+highlighter: rouge
 permalink: /blog/:year-:month-:day/:title.html
 
 # Set the Sass partials directory, as we're using @imports
