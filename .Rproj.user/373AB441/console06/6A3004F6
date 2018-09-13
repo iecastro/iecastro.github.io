@@ -1504,4 +1504,36 @@ Total 28 (delta 11), reused 0 (delta 0)[0K
 $[0K[3G[?25h[?25l[2A[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (maste[0Kr
 )[0K
 [0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h-[0KA[0K[?25l$ git add --[0K[?25h[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/13C2F4F4.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-BE85ACD9/420613D8.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-BE85ACD9/420613D8-conten[0Kt[?25l
+s.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (maste[0Kr
+)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git c[0K[?25ho[0K[?25lm[0K[9G[?25h[10G[?25l$ git comm[0K[?25hi[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hr[0Ke[0Km[0Ko[0Kv[0Ke[0K[?25l$ git commit -m "remov[0K[?25h[?25l$ git commit -m "remo[0K[?25h[?25l$ git commit -m "rem[0K[?25h[?25l$ git commit -m "re[0K[?25h[?25l$ git commit -m "r[0K[?25h[?25l$ git commit -m "[0K[?25h[?25ln[0K[18G[?25h[19G[?25l$ git commit -m "no[0K[?25h[21G[?25l$ git commit -m "no s[0K[?25hi[0Kd[0Ke[0Kb[0Ka[0Kr[0K"[0K[?25l
+[0K[?25h[master 596ee3e] no sidebar[0K[?25l
+ 6 files changed, 400 insertions(+), 14 deletions(-)[0K
+ rewrite .Rproj.user/373AB441/console06/INDEX001 (71%)[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (maste[0Kr
+)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u io[0K[?25h[?25l$ git push -u i[0K[?25h[?25l$ git push -u[0K[15G[?25h[?25l$ git push -u o[0K[15G[?25h[16G[?25l$ git push -u or[0K[?25hi[0Kg[0Ki[0K[?25ln[0K[20G[?25h[21G[22G[?25l$ git push -u origin m[0K[?25h[?25la[0K[23G[?25h[24G[?25l$ git push -u origin mas[0K[?25ht[0K[?25le[0K[26G[?25h[27G[?25l$ git push -u origin master[0K[?25h[?25l
+[0K[?25h[?25lEnumerating objects: 1[0K[1G[?25hEnumerating objects: 27, done.[0K[?25l
+[0K[?25h[?25lCounting objects:  11% (3/27)[0K[1G[?25h[?25lCounting objects:  22% (6/27)[0K[1G[?25h[?25lCounting objects:  25% (7/27)[0K[1G[?25h[?25lCounting objects:  29% (8/27)[0K[1G[?25h[?25lCounting objects:  37% (10/27)[0K[1G[?25h[?25lCounting objects:  48% (13/27)[0K[1G[?25h[?25lCounting objects:  55% (15/27)[0K[1G[?25h[?25lCounting objects:  70% (19/27)[0K[1G[?25h[?25lCounting objects:  74% (20/27)[0K[1G[?25h[?25lCounting objects:  77% (21/27)[0K[1G[?25h[?25lCounting objects:  81% (22/27)[0K[1G[?25h[?25lCounting objects:  85% (23/27)[0K[1G[?25h[?25lCounting objects:  92% (25/27)[0K[1G[?25hCounting objects: 100% (27/27), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:   7% (1/14)[0K[1G[?25h[?25lCompressing objects:  14% (2/14)[0K[1G[?25h[?25lCompressing objects:  21% (3/14)[0K[1G[?25h[?25lCompressing objects:  35% (5/14)[0K[1G[?25h[?25lCompressing objects:  50% (7/14)[0K[1G[?25h[?25lCompressing objects:  64% (9/14)[0K[1G[?25h[?25lCompressing objects:  71% (10/14)[0K[1G[?25h[?25lCompressing objects:  78% (11/14)[0K[1G[?25h[?25lCompressing objects:  92% (13/14)[0K[1G[?25hCompressing objects: 100% (14/14), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  21% (3/14)[0K[1G[?25h[?25lWriting objects:  35% (5/14)[0K[1G[?25h[?25lWriting objects:  50% (7/14)[0K[1G[?25h[?25lWriting objects:  64% (9/14)[0K[1G[?25hWriting objects: 100% (14/14), 3.63 KiB | 9.00 KiB/s, done.[0K[?25l
+Total 14 (delta 8), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[0K[?25l
+[0K[?25hTo https://github.com/iecastro/iecastro.github.io.git[0K[?25l
+   78f75b1..596ee3e  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (maste[0Kr
+)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
 [0K[?25h
