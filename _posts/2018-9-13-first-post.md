@@ -1,11 +1,11 @@
 ---
 layout: post
-title: First Post
+title: First Post - Exploring diabetes indicators across the US
 tags: R sf rspatial
 ---
 
-# Exploring diabetes indicators across the US
-## A county-level analysis  
+
+### A county-level analysis  
 
 This material is from a learning project. I wanted to learn some rmarkdown and how to work with the [sf package](https://github.com/r-spatial/sf) and ggplot2's geom_sf().  It is not a polished write up (or analysis) but it's a good first post to help me set up a workflow for posting to this site. All the R code can be found on [GitHub](https://github.com/iecastro/ND-and-Diabetes).
 
