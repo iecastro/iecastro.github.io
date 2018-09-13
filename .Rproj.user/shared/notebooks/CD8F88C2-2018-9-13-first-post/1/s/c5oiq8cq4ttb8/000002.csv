@@ -1,0 +1,7 @@
+"0","### Map US county deprivation"
+"0","ggplot() + geom_sf(data = MapUS, aes(fill = PC1)) +"
+"0","  geom_sf(data=states,fill = NA,color = ""#ffffff"", size=.5)+"
+"0","  theme_minimal() + theme(axis.text = element_blank(), legend.position = ""bottom"") +"
+"0","  scale_fill_viridis_c(option = ""inferno"") +"
+"0","  labs(fill = ""Index"", caption = ""Data: US Census 5-year ACS estimates, 2013"")+"
+"0","  ggtitle("" "", subtitle = ""County-level Deprivation"")"

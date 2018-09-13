@@ -1,0 +1,6 @@
+"0"," ggplot() + geom_sf(data=results, aes(fill = LocalR2)) +"
+"0","  geom_sf(data=states,fill = NA,color = ""#ffffff"", size=.5)+"
+"0","  theme_minimal() + theme(axis.text = element_blank()) +"
+"0","  scale_fill_distiller(type = ""seq"", direction = 1, labels = scales::percent) +"
+"0","  labs(fill=""Explained Variance"") +"
+"0","  ggtitle(""Spatial variability in goodness-of-fit"", subtitle = ""determined by Local R-squared values"")"

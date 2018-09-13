@@ -1,0 +1,4 @@
+"0","## plots "
+"0","ggplot(data, aes(PC1,DiabPrev)) + geom_point() +"
+"0","  stat_smooth() + theme_classic() +"
+"0","  labs(x = ""County-level Deprivation Index"", y = ""Diagnosed Diabetes Prevalence (%)"")"

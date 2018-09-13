@@ -1,0 +1,5 @@
+"0","ggplot(data, aes(PC1,DiabPrev)) + geom_point(aes(color = ObPrev/100)) +"
+"0","  stat_smooth() + theme_classic() +"
+"0","  labs(x = ""County-level Deprivation Index"", y = ""Diagnosed Diabetes Prevalence (%)"","
+"0","       color = ""Obesity"") +"
+"0","  scale_color_viridis_c(option=""inferno"", direction = -1, labels = scales::percent)"

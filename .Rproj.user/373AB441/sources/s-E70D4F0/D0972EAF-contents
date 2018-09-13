@@ -1,0 +1,237 @@
+---
+layout: post
+title: First Post
+tags: R sf rspatial
+---
+
+# Exploring diabetes indicators across the US
+## A county-level analysis  
+
+This material is from a learning project. I wanted to learn some rmarkdown and how to work with the [sf package](https://github.com/r-spatial/sf) and ggplot2's geom_sf().  It is not a polished write up (or analysis) but it's a good first post to help me set up a workflow for posting to this site. All the R code can be found on [GitHub](https://github.com/iecastro/ND-and-Diabetes).
+
+
+```
+## Warning in readLines(if (is.character(input2)) {: cannot open file
+## '_scripts/2018-9-13-first-post.Rmd': No such file or directory
+```
+
+```
+## Error in readLines(if (is.character(input2)) {: cannot open the connection
+```
+
+
+
+## County level deprivation index
+
+Details about the index can be found [here](https://github.com/iecastro/deprivation-index). In short, estimates are collected from the American Community Survey and a principal component analysis extracts a deprivation score for each observation. Higher index scores represent higher area deprivation relative to all other counties in the US. 
+
+For this project, the index was calculated using 5-year ACS estimates from 2013, at the county-level, to link to the available diabetes dataset.   
+
+
+
+```
+## 
+## Likely variables with missing values are  pct_noHS pct_FHH pct_mgmt pct_crowd pct_pubassist pct_unempl pct_under30K
+```
+
+```
+## Error in principal(values, nfactors = 1): I am sorry: missing values (NAs) in the correlation matrix do not allow me to continue.
+## Please drop those variables and try again.
+```
+
+```
+## Error in cbind(acs_us, ND$scores): object 'ND' not found
+```
+
+
+```
+## Error in eval(lhs, parent, parent): object 'NDI_us' not found
+```
+
+```
+## Error in eval(lhs, parent, parent): object 'NDI_us' not found
+```
+
+
+```
+## Error in geom_sf(data = MapUS, aes(fill = PC1)): object 'MapUS' not found
+```
+
+## Diabetes Indicators
+
+National data on diabetes indciators are available from the [CDC](https://www.cdc.gov/diabetes/data/countydata/countydataindicators.html). Indicator estimates are the most up to date as of 2013 and available at the county-level only. Indicators (age-adjusted) are: 1. prevalence of diagnosed diabetes, 2. prevalence of obesity, and 3. prevalence of leisure-time physical inactivity, hereafter just inactivity.
+
+The spatial distribution of diabetes prevalence in 2013 (below) parallels that of 2007, which led to the recognition of a ["diabetes belt"](https://www.scientificamerican.com/article/diabetes-belt/,https://www.ncbi.nlm.nih.gov/pubmed/21406277) in the southern United States.   
+
+
+
+```
+## Error in merge(NDI_us, merge2, by.x = "GEOID", by.y = "FIPS.x", all.x = TRUE): object 'NDI_us' not found
+```
+
+```
+## Error in UseMethod("group_by_"): no applicable method for 'group_by_' applied to an object of class "function"
+```
+
+
+```
+## Error in geom_sf(data = MapDiab, aes(fill = as.numeric(DiabPrev)/100)): object 'MapDiab' not found
+```
+
+## Data Analysis
+
+Obesity and physical inactivity are well-known risk factors for developing diabetes.  Therefore, in order to assess whether area deprivation is associated with diabetes prevalence, independent of obesity and inactivity, a blocked multiple regression was fitted.  First we estimated the effects of obesity and inactivity; then, the deprivation variable was introduced.
+
+
+```
+## Error in UseMethod("select_"): no applicable method for 'select_' applied to an object of class "function"
+```
+
+```
+## Error in data$DiabPrev: object of type 'closure' is not subsettable
+```
+
+```
+## Error in data$ObPrev: object of type 'closure' is not subsettable
+```
+
+```
+## Error in data$InactPrev: object of type 'closure' is not subsettable
+```
+
+```
+## Error in terms.formula(formula, data = data): 'data' argument is of the wrong type
+```
+
+```
+## Error in terms.formula(formula, data = data): 'data' argument is of the wrong type
+```
+
+### Regression results
+
+
+
+```r
+library(stargazer, quietly = TRUE)
+
+stargazer(lm1,lm2, type ="html")
+```
+
+```
+## Error in .stargazer.wrap(..., type = type, title = title, style = style, : object 'lm1' not found
+```
+
+
+### Increases in county-level deprivation predict increases in diabetes prevalence.
+
+
+```
+## Error: You're passing a function as global data.
+## Have you misspelled the `data` argument in `ggplot()`
+```
+
+
+
+
+```
+## Error: You're passing a function as global data.
+## Have you misspelled the `data` argument in `ggplot()`
+```
+
+### Interaction Term
+
+Results summary 
+
+
+```
+## Error in terms.formula(formula, data = data): 'data' argument is of the wrong type
+```
+
+```
+## Error in summ(int, center = TRUE): object 'int' not found
+```
+
+
+
+```
+## Error in make_predictions(model = model, pred = pred, modx = modx, modxvals = modxvals, : object 'int' not found
+```
+
+
+## Spatial Auto-correlation of county prevalence
+
+
+```
+## Error in as_Spatial(MapDiab): object 'MapDiab' not found
+```
+
+```
+## Error in coordinates(MapSP): object 'MapSP' not found
+```
+
+```
+## Error in .class1(object): object 'MapSP' not found
+```
+
+```
+## Error in tri2nb(coords, row.names = IDs): object 'IDs' not found
+```
+
+```
+## Error in eval(expr, envir, enclos): object 'MapSP' not found
+```
+
+```
+## Error in nb2listw(neighbors): object 'neighbors' not found
+```
+
+
+```r
+MapSP$diabetes <- ifelse(is.na(MapSP$diabetes), 0, MapSP$diabetes)
+```
+
+```
+## Error in ifelse(is.na(MapSP$diabetes), 0, MapSP$diabetes): object 'MapSP' not found
+```
+
+```r
+moran.plot(MapSP$diabetes,nb2listw(neighbors), zero.policy = FALSE, 
+           labels = FALSE,main=c(" "),
+           xlab="Diabetes Prevalence",ylab = "Spatially Lagged Diabetes Prevalence")
+```
+
+```
+## Error in nb2listw(neighbors): object 'neighbors' not found
+```
+
+
+## Spatial Regression
+
+A geographically weighted regression (GWR) was fitted with an adapative kernel and AICCc bandwith parameter - conducted in ArcMap (version 10.2). 
+
+GWR estimates local models across an area by allowing the relationship between variables to vary by location. Inactivity variable was excluded from this model due to multicollinearity with obesity variable. 
+
+### Results 
+
+The GWR used 404 neighbors for each local estimation and accounted for 80% of variability in diabetes outcome. Local models accounted between 20% to 77% of variability in the outcome.
+
+GWR summary:
+
+ Neighbors           : 404   
+ 
+ ResidualSquares     : 3022.5957759565522  
+ 
+ EffectiveNumber     : 83.492913855248489   
+ 
+ Sigma               : 0.99411194002147207  
+ 
+ AICc                : 8921.5582814951449  
+ 
+ R2                  : 0.80040748447829668  
+ 
+ R2Adjusted          : 0.79502414949644495  
+
+
+
+![plot of chunk unnamed-chunk-13](Post_figs/2018-9-13-first-post-unnamed-chunk-13-1.png)
+

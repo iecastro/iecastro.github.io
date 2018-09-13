@@ -1,0 +1,8 @@
+"0","### map diabetes prevalence "
+"0","### map diabetes prevalence "
+"0","ggplot() + geom_sf(data=MapDiab, aes(fill = as.numeric(DiabPrev)/100)) +"
+"0","  geom_sf(data=states,fill = NA,color = ""#ffffff"", size=.5) +"
+"0","  scale_fill_viridis_c(option = ""magma"",labels = scales::percent) +"
+"0","  theme_minimal() + theme(axis.text = element_blank(), legend.position = ""bottom"") +"
+"0","  labs(fill = ""Prevalence "", caption = ""Data: CDC County-level Indicators, 2013"")+"
+"0","  ggtitle("" "", subtitle = ""County-level, age-adjusted prevalence of diagnosed Diabetes in adults"")"

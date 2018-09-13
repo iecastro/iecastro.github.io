@@ -1,0 +1,7 @@
+"0","NDI_us <- NDI_us %>% select(NAME,GEOID,PC1) %>% "
+"0","  separate(NAME, into = c(""County"",""State""), sep = "","")"
+"0","US_counties <- get_acs(geography = ""county"", variables = c(""B01001_001""), "
+"0","                       output = ""wide"", geometry = TRUE, shift_geo = TRUE)"
+"0","MapUS <- geo_join(US_counties,NDI_us, by_sp = ""GEOID"", by_df = ""GEOID"")"
+"0","states <- get_acs(geography = ""state"", variables = c(""B01001_001""), "
+"0","                  output = ""wide"", geometry = TRUE, shift_geo = TRUE)"

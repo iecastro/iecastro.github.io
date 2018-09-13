@@ -1,0 +1,6 @@
+"0","interact_plot(int, pred = ObPrev, modx = PC1,"
+"0","              interval = TRUE, int.type = ""confidence"", "
+"0","              x.label = ""Obesity Prevalence (%)"", y.label = ""Diagnosed Diabetes Prevalence (%)"") +"
+"0","             theme_apa(legend.pos = ""topleft"") + "
+"0","              ggtitle(""County-level Deprivation"", "
+"0","              subtitle = ""moderates the relationship between obesity and diabetes"")"

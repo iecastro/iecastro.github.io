@@ -1,0 +1,4 @@
+"0","MapSP$diabetes <- ifelse(is.na(MapSP$diabetes), 0, MapSP$diabetes)"
+"0","moran.plot(MapSP$diabetes,nb2listw(neighbors), zero.policy = FALSE, "
+"0","           labels = FALSE,main=c("" ""),"
+"0","           xlab=""Diabetes Prevalence"",ylab = ""Spatially Lagged Diabetes Prevalence"")"

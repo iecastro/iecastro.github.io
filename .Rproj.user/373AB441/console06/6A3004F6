@@ -356,4 +356,206 @@ Total 19 (delta 8), reused 0 (delta 0)[0K
 [0K[?25h[?25l
 [0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/58C9B022.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/1E3C079.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/1E3C079-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/490DB5BC-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[16G[15G[?25l$ git commit -m[0K[?25h[17G[?25l
+[0K[?25herror: switch `m' requires a value[0K[?25l
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m[0K[17G[?25h[?25l$ git commit -m "[0K[?25hu[0Ko[0Kp[0Kd[0K[?25l$ git commit -m "uop[0K[?25h[?25l$ git commit -m "uo[0K[?25h[?25l$ git commit -m "u[0K[?25hp[0Kd[0Ka[0Kt[0Ke[0K[25G[?25l$ git commit -m "update s[0K[?25hv[0Kg[0K[29G[?25l$ git commit -m "update svg i[0K[?25hf[0K[32G[?25l$ git commit -m "update svg if s[0K[?25ht[0Ka[0Kr[0Ke[0Km[0K[?25l$ git commit -m "update svg if stare[0K[38G[?25h[37G[?25l$ git commit -m "update svg if star[0K[?25h[?25l$ git commit -m "update svg if sta[0K[?25ht[0Ke[0Km[0Ke[0Kn[0Kt[0K"[0K[?25l
+[0K[?25h[master 0607818] update svg if statement[0K[?25l
+ 8 files changed, 107 insertions(+)[0K
+ create mode 100644 .Rproj.user/373AB441/sources/prop/58C9B022[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-E70D4F0/1E3C079[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-E70D4F0/1E3C079-contents[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-E70D4F0/490DB5BC-contents[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git p[0K[?25h[?25lu[0K[8G[?25h[9G[?25l$ git pus[0K[?25hh[0K[?25l
+[0K[?25hEnumerating objects: 31, done.[0K[?25l
+[0K[?25h[?25lCounting objects:   9% (3/31)[0K[1G[?25h[?25lCounting objects:  12% (4/31)[0K[1G[?25h[?25lCounting objects:  16% (5/31)[0K[1G[?25h[?25lCounting objects:  19% (6/31)[0K[1G[?25h[?25lCounting objects:  25% (8/31)[0K[1G[?25h[?25lCounting objects:  35% (11/31)[0K[1G[?25h[?25lCounting objects:  41% (13/31)[0K[1G[?25h[?25lCounting objects:  48% (15/31)[0K[1G[?25h[?25lCounting objects:  54% (17/31)[0K[1G[?25h[?25lCounting objects:  61% (19/31)[0K[1G[?25h[?25lCounting objects:  70% (22/31)[0K[1G[?25h[?25lCounting objects:  74% (23/31)[0K[1G[?25h[?25lCounting objects:  87% (27/31)[0K[1G[?25h[?25lCounting objects:  90% (28/31)[0K[1G[?25hCounting objects: 100% (31/31), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  23% (4/17)[0K[1G[?25h[?25lCompressing objects:  29% (5/17)[0K[1G[?25h[?25lCompressing objects:  35% (6/17)[0K[1G[?25h[?25lCompressing objects:  47% (8/17)[0K[1G[?25h[?25lCompressing objects:  58% (10/17)[0K[1G[?25h[?25lCompressing objects:  70% (12/17)[0K[1G[?25h[?25lCompressing objects:  76% (13/17)[0K[1G[?25h[?25lCompressing objects:  82% (14/17)[0K[1G[?25h[?25lCompressing objects:  88% (15/17)[0K[1G[?25h[?25lCompressing objects:  94% (16/17)[0K[1G[?25hCompressing objects: 100% (17/17), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  27% (5/18)[0K[1G[?25h[?25lWriting objects:  44% (8/18)[0K[1G[?25h[?25lWriting objects:  66% (12/18)[0K[1G[?25hWriting objects: 100% (18/18), 2.83 KiB | 17.00 KiB/s, done.[0K[?25l
+Total 18 (delta 8), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (8/8), completed with 7 local objects.[0K[?25l
+[0K[?25hTo https://github.com/iecastro/iecastro.github.io.git[0K[?25l
+   694f302..0607818  master -> master[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0K[?25li[0K[11G[?25h[12G[?25l$ git commit[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/6A3004F6[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/3BCF669A[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/52FC2928[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/B7C370A5[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/1E3C079[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/s-E70D4F0/823CF11[0m[0K[9G[?25h[?25l
+        [0;31mmodified:   .Rproj.user/373AB441/sources/s-E70D4F0/823CF11-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/AFF032A7[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/B99C6C8B[0m[0K
+        [0;31mmodified:   _includes/svg-icons/medium.html[0m[0K
+[0K
+Untracked files:[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/498865EB[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/17D2953D[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/17D2953D-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/31C07861[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/31C07861-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/B469A8DD[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/B469A8DD-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7-contents[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/3BCF669A.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/52FC2928.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/B7C370A5.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/823CF11.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/823CF11-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/498865EB.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/17D2953D.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/17D2953D-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/31C07861.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/31C07861-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/B469A8DD.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/B469A8DD-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7-contents.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0K[?25lh[0K[10G[?25h[11G[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[22G[?25l$ git push -u origin m[0K[?25ha[0K[?25ls[0K[24G[?25h[25G[?25l$ git push -u origin mast[0K[?25he[0Kr[0K[?25l
+[0K[?25hEverything up-to-date[0K[?25l
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[?25l
+[0K[?25hremote: Counting objects: 27, done.[0K[?25l
+remote: Compressing objects: 100% (27/27), done.[0K
+[0K[?25hremote: Total 27 (delta 18), reused 0 (delta 0), pack-reused 0[0K[?25l
+[0K[?25h[?25lUnpacking objects:   3% (1/27)[0K[1G[?25h[?25lUnpacking objects:   7% (2/27)[0K[1G[?25h[?25lUnpacking objects:  11% (3/27)[0K[1G[?25h[?25lUnpacking objects:  14% (4/27)[0K[1G[?25h[?25lUnpacking objects:  18% (5/27)[0K[1G[?25h[?25lUnpacking objects:  22% (6/27)[0K[1G[?25h[?25lUnpacking objects:  25% (7/27)[0K[1G[?25h[?25lUnpacking objects:  29% (8/27)[0K[1G[?25h[?25lUnpacking objects:  33% (9/27)[0K[1G[?25h[?25lUnpacking objects:  37% (10/27)[0K[1G[?25h[?25lUnpacking objects:  40% (11/27)[0K[1G[?25h[?25lUnpacking objects:  44% (12/27)[0K[1G[?25h[?25lUnpacking objects:  48% (13/27)[0K[1G[?25h[?25lUnpacking objects:  51% (14/27)[0K[1G[?25h[?25lUnpacking objects:  55% (15/27)[0K[1G[?25h[?25lUnpacking objects:  59% (16/27)[0K[1G[?25h[?25lUnpacking objects:  62% (17/27)[0K[1G[?25h[?25lUnpacking objects:  66% (18/27)[0K[1G[?25h[?25lUnpacking objects:  70% (19/27)[0K[1G[?25h[?25lUnpacking objects:  74% (20/27)[0K[1G[?25h[?25lUnpacking objects:  77% (21/27)[0K[1G[?25h[?25lUnpacking objects:  81% (22/27)[0K[1G[?25h[?25lUnpacking objects:  85% (23/27)[0K[1G[?25h[?25lUnpacking objects:  88% (24/27)[0K[1G[?25h[?25lUnpacking objects:  92% (25/27)[0K[1G[?25h[?25lUnpacking objects:  96% (26/27)[0K[1G[?25hUnpacking objects: 100% (27/27), done.[0K[?25l
+[0K[?25hFrom https://github.com/iecastro/iecastro.github.io[0K[?25l
+   0607818..0828455  master     -> origin/master[0K
+[0K[?25hUpdating 0607818..0828455[0K[?25l
+Fast-forward[0K
+[0K[?25h 404.md      | 4 [0;32m++[0;31m--[0m[0K[?25l
+ _config.yml | 7 [0;32m+++[0;31m----[0m[0K
+ about.md    | 2 [0;32m+[0;31m-[0m[0K
+ 3 files changed, 6 insertions(+), 7 deletions(-)[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[6A 404.md      | 4 [0;32m++[0;31m--[0K
+[0m _config.yml | 7 [0;32m+++[0;31m----[0K
+[0m about.md    | 2 [0;32m+[0;31m-[0K
+[0m 3 files changed, 6 insertions(+), 7 deletions(-)[0K
+[0K
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/373AB441/console06/6A3004F6[0m[0K
+        [0;32mmodified:   .Rproj.user/373AB441/sources/prop/3BCF669A[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/prop/498865EB[0m[0K
+        [0;32mmodified:   .Rproj.user/373AB441/sources/prop/52FC2928[0m[0K
+        [0;32mmodified:   .Rproj.user/373AB441/sources/prop/B7C370A5[0m[0K
+        [0;32mmodified:   .Rproj.user/373AB441/sources/prop/INDEX[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/s-E70D4F0/17D2953D[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/s-E70D4F0/17D2953D-contents[0m[0K
+        [0;32mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/1E3C079[0m[0K
+        [0;32mrenamed:    .Rproj.user/373AB441/sources/s-E70D4F0/AFF032A7 -> .Rproj.user/373AB441/source[0Ks
+/s-E70D4F0/31C07861[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/s-E70D4F0/31C07861-contents[0m[0K
+        [0;32mmodified:   .Rproj.user/373AB441/sources/s-E70D4F0/823CF11[0m[0K
+        [0;32mmodified:   .Rproj.user/373AB441/sources/s-E70D4F0/823CF11-contents[0m[0K
+        [0;32mrenamed:    .Rproj.user/373AB441/sources/s-E70D4F0/B99C6C8B -> .Rproj.user/373AB441/source[0Ks
+/s-E70D4F0/B469A8DD[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/s-E70D4F0/B469A8DD-contents[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7[0m[0K
+        [0;32mnew file:   .Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7-contents[0m[0K
+        [0;32mmodified:   _includes/svg-icons/medium.html[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/6A3004F6[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/51B7D33F[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/52FC2928[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/A8C83C56[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/17D2953D[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/31C07861[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/823CF11[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/B469A8DD[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-E70D4F0/CB98F0F7[0m[0K
+        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/368C110A[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/7620C1D5[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/84E89AE5[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/BEDE001F[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/CE7BAF04[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/prop/FCDEBF8D[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/32F44457[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/32F44457-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/5AC48DF3-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/84D0353F[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/84D0353F-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/B38F9338-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/D0972EAF-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/EFB435F5-contents[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-E70D4F0/FDF10848-contents[0m[0K
+        [0;31m.Rproj.user/shared/notebooks/8DFB4A6C-2018-9-13-first-post/[0m[0K
+        [0;31m.Rproj.user/shared/notebooks/9AE941B3-README/[0m[0K
+        [0;31m.Rproj.user/shared/notebooks/CD8F88C2-2018-9-13-first-post/[0m[0K
+        [0;31mPost_figs/[0m[0K
+        [0;31m_posts/[0m[0K
+        [0;31m_scripts/[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.io[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
 [0K[?25h
