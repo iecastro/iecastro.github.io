@@ -15,7 +15,7 @@ This material is from a learning project. I wanted to learn some rmarkdown and h
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
-  fig.path = "Post_figs/2018-9-13-first-post-",
+  fig.path = "figures/2018-9-13-first-post-",
   message = FALSE,
   warning = FALSE)
 
