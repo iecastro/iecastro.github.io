@@ -7,6 +7,8 @@ It took me two days of trial and error (and some head banging against the wall) 
 no small part, by reading, cloning, copying, combining, ..etc, from the following repos:
 
 -http://andysouth.github.io/blog-setup/
+
 -https://github.com/barryclark/jekyll-now
+
 -https://github.com/jangorecki/jangorecki.github.io
 
