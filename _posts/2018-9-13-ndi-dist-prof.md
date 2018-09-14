@@ -8,7 +8,7 @@ tags: sf rspatial demography
 
 Distance profiles help explore the demographic characteristics of an urban area. They have been widely used in urban demography and sociology research. Dating back to the 1920s and the [Chicago School](https://en.wikipedia.org/wiki/Chicago_school_(sociology)) models. They posit that every major city expands in [concentric circles](https://transportgeography.org/?page_id=4908) from the urban center.
 
-![<img src="https://iecastro.github.io/images/burgess_model.png" alt="Burgess Model" style="width: 400px;"/>](https://iecastro.github.io/images/burgess_model.png)
+![<img src="https://iecastro.github.io/images/burgess_model.png" alt="Burgess Model" style="width: 300px;"/>](/images/burgess_model.png)
 
 
 I came across this paper, [*A Reproducibel Framework for Visualizing Demographic Distance Profiles in US Metropolitan Areas*](https://link.springer.com/article/10.1007/s40980-018-0042-7), that walks you through a workflow for creating distance profiles in R. I found it interesting, and was familiar with the packages needed, so, I decided to create distance profiles of [neighborhood deprivation](https://towardsdatascience.com/a-census-based-deprivation-index-using-r-7aa738da697c) in New York State.  
@@ -44,11 +44,9 @@ I don't know about you, but I find this plot really gratifying.
 
 This data is showing us a really interesting dynamic. Deprivation is really high close to center (inner city), and sharply drops (inner suburbs); then about 10 km from the center, deprivation starts increasing again, but, does not reach center levels again.
 
-I wanted to further explore this data, so I narrowed my focus to the four major Upstate areas (of course, everything I just wrote after *four* is highly subjective and arbitrary) 
+I wanted to further explore this data, so I narrowed my focus to the four major Upstate areas (of course, everything I just wrote after *four* is highly subjective and arbitrary). [What is Upsate New York?](https://www.washingtonpost.com/news/the-fix/wp/2016/04/19/so-what-is-upstate-new-york-exactly/?utm_term=.744abe9b3fe3).
 
-[What is Upsate New York?](https://www.washingtonpost.com/news/the-fix/wp/2016/04/19/so-what-is-upstate-new-york-exactly/?utm_term=.744abe9b3fe3).
-
-![<img src="https://iecastro.github.io/images/biggie.png" alt="biggie" style="width: 400px;"/>](https://iecastro.github.io/images/biggie.png)
+![<img src="https://iecastro.github.io/images/biggie.jpg" alt="biggie" style="width: 400px;"/>](/images/biggie.jpg)
 
 
 ## Upstate New York
