@@ -2109,4 +2109,125 @@ Total 34 (delta 16), reused 0 (delta 0)[0K
 [0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
 [0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h[?25l-[0K[12G[?25h[13G[?25l$ git add --A[0K[?25h[?25l$ git add --[0K[?25ha[0Kl[0Kl[0K[?25l
-[0K[?25h
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/13C2F4F4.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/E16E7E39.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/6F5F570[0K3[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/828DAD4[0K.[?25l
+[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/828DAD4[0K-[?25l
+contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0K[?25lt[0K[12G[?25h[13G[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25h"[0K[?25l$ git commit -m "[0K[?25hd[0K[?25le[0K[19G[?25h[20G[?25l$ git commit -m "def[0K[?25h[?25la[0K[21G[?25h[?25l$ git commit -m "defau[0K[?25hl[0K[?25lt[0K[24G[?25h[25G[?25l$ git commit -m "default"[0K[?25h[?25l
+[0K[?25h[master 5cdcbc7] default[0K[?25l
+ 8 files changed, 121 insertions(+), 40 deletions(-)[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/2931822D[0K
+ rename .Rproj.user/373AB441/sources/s-68C01013/{3DB3B54B => 828DAD4} (56%)[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-68C01013/828DAD4-contents[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0K[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0K[?25ld[0K[9G[?25h[10G[11G[?25l$ git add -[0K[?25h-[0KA[0K[?25l
+[0K[?25herror: unknown option `A'[0K[?25l
+usage: git add [<options>] [--] <pathspec>...[0K[1G[?25h[?25l
+[0K
+    -n, --dry-run         dry run[0K
+    -v, --verbose         be verbose[0K
+[0K
+    -i, --interactive     interactive picking[0K
+    -p, --patch           select hunks interactively[0K
+    -e, --edit            edit current diff and apply[0K
+    -f, --force           allow adding otherwise ignored files[0K
+    -u, --update          update tracked files[0K
+    --renormalize         renormalize EOL of tracked files (implies -u)[0K
+    -N, --intent-to-add   record only the fact that the path will be added later[0K
+    -A, --all             add changes from all tracked and untracked files[0K
+    --ignore-removal      ignore paths removed in the working tree (same as --no-all)[0K
+    --refresh             don't add, only refresh the index[0K
+    --ignore-errors       just skip files which cannot be added because of errors[0K
+    --ignore-missing      check if - even missing - files are ignored in dry run[0K
+    --chmod <(+/-)x>      override the executable bit of the listed files[0K
+[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[1G[?25h[3G[?25l$ g[0K[3G[?25h[4G[?25l$ gi[0K[?25ht[0K[7G[?25l$ git c[0K[7G[?25h[8G[?25l$ git co[0K[?25hm[0K[?25lm[0K[10G[?25h[11G[?25l$ git commi[0K[?25ht[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hu[0K[?25lp[0K[19G[?25h[20G[?25l$ git commit -m "upd[0K[?25ha[0Kt[0Ke[0K[25G[?25l$ git commit -m "update b[0K[?25hl[0Koi[0K[?25l$ git commit -m "update blo[0K[29G[?25h[28G[?25l$ git commit -m "update blog[0K[?25h[30G[?25l$ git commit -m "update blog n[0K[?25h[?25l$ git commit -m "update blog[0K[30G[?25h[?25l$ git commit -m "update blog m[0K[?25hd[0K"[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is ahead of 'origin/master' by 1 commit.[0K
+  (use "git push" to publish your local commits)[0K
+[0K
+Changes not staged for commit:[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/6A3004F6[0m[0K
+        [0;31mmodified:   blog.md[0m[0K
+[0K
+Untracked files:[0K
+        [0;31m.Rproj.user/373AB441/sources/s-68C01013/2814DBC2[0m[0K
+        [0;31m.Rproj.user/373AB441/sources/s-68C01013/2814DBC2-contents[0m[0K
+[0K
+no changes added to commit[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0K[?25li[0K[17G[?25h[18G[?25l$ git push -u orig[0K[?25hi[0K[?25ln[0K[20G[?25h[21G[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0K[?25lt[0K[25G[?25h[26G[?25l$ git push -u origin maste[0K[?25hr[0K[?25l
+[0K[?25h[?25lEnumerating objects: 1[0K[1G[?25h[?25lEnumerating objects: 20[0K[1G[?25hEnumerating objects: 27, done.[0K[?25l
+Counting objects:   3% (1/27)[0K[1G[?25h[?25lCounting objects:  14% (4/27)[0K[1G[?25h[?25lCounting objects:  22% (6/27)[0K[1G[?25h[?25lCounting objects:  37% (10/27)[0K[1G[?25h[?25lCounting objects:  40% (11/27)[0K[1G[?25h[?25lCounting objects:  48% (13/27)[0K[1G[?25h[?25lCounting objects:  59% (16/27)[0K[1G[?25h[?25lCounting objects:  62% (17/27)[0K[1G[?25h[?25lCounting objects:  70% (19/27)[0K[1G[?25h[?25lCounting objects:  74% (20/27)[0K[1G[?25h[?25lCounting objects:  77% (21/27)[0K[1G[?25h[?25lCounting objects:  81% (22/27)[0K[1G[?25h[?25lCounting objects:  85% (23/27)[0K[1G[?25h[?25lCounting objects:  88% (24/27)[0K[1G[?25h[?25lCounting objects:  92% (25/27)[0K[1G[?25h[?25lCounting objects:  96% (26/27)[0K[1G[?25hCounting objects: 100% (27/27), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  13% (2/15)[0K[1G[?25h[?25lCompressing objects:  20% (3/15)[0K[1G[?25h[?25lCompressing objects:  26% (4/15)[0K[1G[?25h[?25lCompressing objects:  40% (6/15)[0K[1G[?25h[?25lCompressing objects:  53% (8/15)[0K[1G[?25h[?25lCompressing objects:  60% (9/15)[0K[1G[?25h[?25lCompressing objects:  66% (10/15)[0K[1G[?25h[?25lCompressing objects:  73% (11/15)[0K[1G[?25h[?25lCompressing objects:  80% (12/15)[0K[1G[?25h[?25lCompressing objects:  93% (14/15)[0K[1G[?25hCompressing objects: 100% (15/15), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  33% (5/15)[0K[1G[?25h[?25lWriting objects:  60% (9/15)[0K[1G[?25h[?25lWriting objects:  86% (13/15)[0K[1G[?25hWriting objects: 100% (15/15), 3.09 KiB | 21.00 KiB/s, done.[0K[?25l
+Total 15 (delta 6), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  66% (4/6)[0K[1G[?25hremote: Resolving deltas: 100% (6/6), completed with 6 local objects.[0K[?25l
+[0K[?25hTo https://github.com/iecastro/iecastro.github.io.git[0K[?25l
+   28c9540..5cdcbc7  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0K[?25lu[0K[11G[?25h[12G[?25l$ git status[0K[?25h[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up to date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/6A3004F6[0m[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-68C01013/6F5F5703[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-68C01013/828DAD4[0m[0K
+        [0;31mdeleted:    .Rproj.user/373AB441/sources/s-68C01013/9702A414[0m[0K
+        [0;31mdeleted:    .Rproj.user/shared/notebooks/728EF79B-2018-9-13-ndi-dist-prof/1/373[0KA
+B44168C01013/chunks.json[0m[0K
+        [0;31mmodified:   blog.md[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/373AB441/sources/s-68C01013/2814DBC2-contents[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25h[?25li[0K[4G[?25h[5G[?25l$ git[0K[?25h[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[?25l
+[0K[?25hremote: Counting objects: 2, done.[0K[?25l
+remote: Compressing objects: 100% (2/2), done.[0K
+remote: Total 2 (delta 1), reused 0 (delta 0), pack-reused 0[0K
+[0K[?25h[?25lUnpacking objects:  50% (1/2)[0K[1G[?25hUnpacking objects: 100% (2/2), done.[0K[?25l
+[0K[?25hFrom https://github.com/iecastro/iecastro.github.io[0K[?25l
+   5cdcbc7..9d52c48  master     -> origin/master[0K
+[0K[?25herror: Your local changes to the following files would be overwritten by merge:[0K[?25l
+        blog.md[0K
+Please commit your changes or stash them before you merge.[0K
+Aborting[0K
+Updating 5cdcbc7..9d52c48[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h
