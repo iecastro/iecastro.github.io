@@ -11,7 +11,7 @@ Distance profiles help explore the demographic characteristics of an urban area.
 ![<img src="https://iecastro.github.io/images/burgess_model.png" alt="Burgess Model" style="width: 300px;"/>](/images/burgess_model.png)
 
 
-I came across this paper, [*A Reproducibel Framework for Visualizing Demographic Distance Profiles in US Metropolitan Areas*](https://link.springer.com/article/10.1007/s40980-018-0042-7), that walks you through a workflow for creating distance profiles in R. I found it interesting, and was familiar with the packages needed, so, I decided to create distance profiles of [neighborhood deprivation](https://towardsdatascience.com/a-census-based-deprivation-index-using-r-7aa738da697c) in New York State.  
+I came across this paper, [*A Reproducible Framework for Visualizing Demographic Distance Profiles in US Metropolitan Areas*](https://link.springer.com/article/10.1007/s40980-018-0042-7), that walks you through a workflow for creating distance profiles in R. I found it interesting, and was familiar with the packages needed, so, I decided to create distance profiles of [neighborhood deprivation](https://towardsdatascience.com/a-census-based-deprivation-index-using-r-7aa738da697c) in New York State.  
 
 ## Data Prep
 

@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3553245279",
+    "hash" : "0",
     "id" : "D9994E8A",
-    "lastKnownWriteTime" : 1536885359,
-    "last_content_update" : 1536885359,
+    "lastKnownWriteTime" : 1536887731,
+    "last_content_update" : 1536887731343,
     "path" : "~/Desktop/iecastro.github.io/_posts/2018-9-13-ndi-dist-prof.md",
     "project_path" : "_posts/2018-9-13-ndi-dist-prof.md",
     "properties" : {
+        "cursorPosition" : "6,0",
+        "scrollLine" : "0"
     },
     "relative_order" : 2,
     "source_on_save" : false,
