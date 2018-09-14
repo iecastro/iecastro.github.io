@@ -360,4 +360,166 @@ no changes added to commit[0K
 [0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
 [0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/pcs/source-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/pcs/windowlayoutstate.pper[0K.[?25l
+[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/pcs/workbench-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/rmd-outputs.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DB2488A1/53E62F1[0K3[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DB2488A1/9B015E9[0K-[?25l
+contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-DB2488A1/E91E660[0K3[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[7G[?25h[8G[?25l$ git co[0K[?25hm[0Km[0K[?25li[0K[11G[?25h[12G[?25l$ git commit[0K[?25h[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hc[0Ko[0Km[0Km[0Ki[0Kt[0K[25G[?25l$ git commit -m "commit l[0K[?25ho[0Kc[0Ka[0Kl[0K[31G[?25l$ git commit -m "commit local f[0K[?25ho[0Kr[0K[35G[?25l$ git commit -m "commit local for m[0K[?25ha[0Ks[0Kt[0K[?25ler[0K[40G[?25h[41G[42G[?25l$ git commit -m "commit local for master m[0K[?25he[0Kr[0Kg[0Ke[0K"[0K[?25l
+[0K[?25h[master 25be2c2] commit local for master merge[0K[?25l
+ 102 files changed, 2066 insertions(+), 3853 deletions(-)[0K
+ create mode 100644 .Rproj.user/373AB441/console06/A5FF6CAB[0K
+ create mode 100644 .Rproj.user/373AB441/console06/BEBCDDCF[0K
+ rewrite .Rproj.user/373AB441/console06/INDEX001 (100%)[0K
+ create mode 100644 .Rproj.user/373AB441/pcs/files-pane.pper[0K
+ create mode 100644 .Rproj.user/373AB441/pcs/source-pane.pper[0K
+ create mode 100644 .Rproj.user/373AB441/pcs/windowlayoutstate.pper[0K
+ create mode 100644 .Rproj.user/373AB441/pcs/workbench-pane.pper[0K
+ create mode 100644 .Rproj.user/373AB441/rmd-outputs[0K
+ create mode 100644 .Rproj.user/373AB441/saved_source_markers[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/14581420-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/17D2953D-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/1A3D7C45-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/1B0D21D8-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/1E3C079-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/20F06744-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/25AFEEE9-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/2931822D-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/296222A2-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/2A8F572D-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/2C7B5683-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/30AF3EE2-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/31C07861-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/32F44457-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/36DCE7EA-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/3DB3B54B-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/420613D8-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/42B6E839-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/43FD5BD8-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/45254638-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/464754F0-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/490DB5BC-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/497422B-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/4C233171-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/4F25788A-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/5590C304-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/55C28BEE-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/56DECD14-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/579A91CC-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/57F8E12A-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/5AC48DF3-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/5CCB6882-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/63F8692A-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/6A2F0241-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/6AE5CFA7-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/6F5F5703[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/6F5F5703-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/74D45D90-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/75AA8EF3-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/791D317E-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/798CCA98-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/823CF11-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/828DAD4[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/828DAD4-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/82D015F7-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/84D0353F-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/89E9CC25-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/8B0C006B-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/8D2A197-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/91905BF5-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/924CAABE-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/954D8F54-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/9702A414[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/9702A414-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/9C32D813-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/9DAEE920-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/A072F06C-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/A31B9C12-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/A8A42964-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/AEE2E4C9-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/AFA2EF02-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/AFF032A7-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/B38F9338-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/B469A8DD-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/B92E43B6-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/B99C6C8B-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/BFB38A1F-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/C01D84B1-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/CB98F0F7-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/CE587ABC-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/D0972EAF-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/D4C3602B-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/D9994E8A-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/DA1FA3AA-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/DC2FE42F-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/DDEB6258-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/E454E8D6-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/E716640C-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/E74782BD-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/E7B17504-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/EB2FABE9-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/EC1E8569-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/EFB435F5-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/F22CFBD8-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/FCC7A2B9-contents[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-68C01013/FDF10848-contents[0K
+ rename .Rproj.user/373AB441/sources/{s-68C01013/28CADCEF-contents => s-DB2488A1/53E62F[0K1
+3-contents} (100%)[0K
+ rename .Rproj.user/373AB441/sources/{s-68C01013/3BCB5F44-contents => s-DB2488A1/9B015E[0K9
+-contents} (100%)[0K
+ rename .Rproj.user/373AB441/sources/{s-68C01013/200C83-contents => s-DB2488A1/E91E6603[0K-
+contents} (100%)[0K
+ rename .Rproj.user/373AB441/sources/{s-68C01013 => s-DB2488A1}/lock_file (100%)[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/728EF79B-2018-9-13-ndi-dist-prof/1/373[0KA
+B44168C01013/chunks.json[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0K[?25lt[0K[5G[?25h[6G[7G[?25l$ git p[0K[?25hu[0Kl[0Kl[0K[12G[?25l$ git pull o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git pull origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25hFrom https://github.com/iecastro/iecastro.github.io[0K[?25l
+ * branch            master     -> FETCH_HEAD[0K
+[0K[?25h[?25lPerforming inexact rename detection:  18% (180/990)[0K[1G[?25h[?25lPerforming inexact rename detection:  27% (270/990)[0K[1G[?25h[?25lPerforming inexact rename detection:  36% (360/990)[0K[1G[?25h[?25lPerforming inexact rename detection:  45% (450/990)[0K[1G[?25h[?25lPerforming inexact rename detection:  54% (540/990)[0K[1G[?25h[?25lPerforming inexact rename detection:  63% (630/990)[0K[1G[?25hPerforming inexact rename detection:  72% (720/990), done.[0K[?25l
+[0K[?25hMerge made by the 'recursive' strategy.[0K[?25l
+[0K[?25h _config.yml                          | 4 [0;32m++[0;31m--[0m[0K[?25l
+ _layouts/default.html                | 8 [0;32m+++++[0;31m---[0m[0K
+ _posts/2018-9-13-ndi-dist-prof.md    | 4 [0;32m++[0;31m--[0m[0K
+ _scripts/2018-9-13-ndi-dist-prof.Rmd | 4 [0;32m++[0;31m--[0m[0K[?25h[?25l
+ 4 files changed, 11 insertions(+), 9 deletions(-)[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is ahead of 'origin/master' by 2 commits.[0K
+  (use "git push" to publish your local commits)[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/373AB441/console06/A5FF6CAB[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25ha[0K[?25l$ git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
 [0K[?25h
