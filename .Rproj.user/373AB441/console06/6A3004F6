@@ -2062,4 +2062,51 @@ CONFLICT (content): Merge conflict in _layouts/default.html[0K
 [0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
 [0;36m (master|MERGING)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h-[0Ka[0Kl[0Kl[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/13C2F4F4.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/E16E7E39.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/FE19CDAF.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25lwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/6F5F570[0K3[2G[?25h[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/AFA2EF0[0K2[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/2931822[0KD[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/2931822[0KD[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/3DB3B54[0KB[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-68C01013/3DB3B54[0KB[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master|MERGING)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0K[?25lm[0K[9G[?25h[10G[?25l$ git comm[0K[?25h[?25li[0K[11G[?25h[12G[?25l$ git commit[0K[?25h[14G[?25l$ git commit -[0K[?25hM[0K[?25l$ git commit -[0K[?25h[?25lm[0K[15G[?25h[16G[17G[?25l$ git commit -m "[0K[?25hm[0K[?25le[0K[19G[?25h[?25l$ git commit -m "mer[0K[?25hg[0K[?25le[0K[22G[?25h[23G[24G[?25l$ git commit -m "merge d[0K[?25he[0Kf[0Ka[0Ku[0Kl[0K[?25lt[0K[30G[?25h[31G[?25l$ git commit -m "merge default"[0K[?25h[?25l
+[0K[?25h[master[0K[9G[?25l[master 28c9540] merge default[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[7G[?25h[8G[?25l$ git pu[0K[8G[?25h[9G[?25l$ git pus[0K[?25h[?25lh[0K[10G[?25h[11G[12G[?25l$ git push -[0K[?25hu[0K[15G[?25l$ git push -u o[0K[?25hr[0Ki[0Kg[0Ki[0K[?25ln[0K[20G[?25h[21G[22G[?25l$ git push -u origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25h[?25lEnumerating objects: 1[0K[1G[?25h[?25lEnumerating objects: 12[0K[1G[?25hEnumerating objects: 64, done.[0K[?25l
+Counting objects:   1% (1/51)[0K[1G[?25h[?25lCounting objects:   5% (3/51)[0K[1G[?25h[?25lCounting objects:   7% (4/51)[0K[1G[?25h[?25lCounting objects:   9% (5/51)[0K[1G[?25h[?25lCounting objects:  13% (7/51)[0K[1G[?25h[?25lCounting objects:  15% (8/51)[0K[1G[?25h[?25lCounting objects:  17% (9/51)[0K[1G[?25h[?25lCounting objects:  19% (10/51)[0K[1G[?25h[?25lCounting objects:  21% (11/51)[0K[1G[?25h[?25lCounting objects:  25% (13/51)[0K[1G[?25h[?25lCounting objects:  27% (14/51)[0K[1G[?25h[?25lCounting objects:  31% (16/51)[0K[1G[?25h[?25lCounting objects:  35% (18/51)[0K[1G[?25h[?25lCounting objects:  39% (20/51)[0K[1G[?25h[?25lCounting objects:  45% (23/51)[0K[1G[?25h[?25lCounting objects:  47% (24/51)[0K[1G[?25h[?25lCounting objects:  49% (25/51)[0K[1G[?25h[?25lCounting objects:  50% (26/51)[0K[1G[?25h[?25lCounting objects:  52% (27/51)[0K[1G[?25h[?25lCounting objects:  54% (28/51)[0K[1G[?25h[?25lCounting objects:  56% (29/51)[0K[1G[?25h[?25lCounting objects:  58% (30/51)[0K[1G[?25h[?25lCounting objects:  60% (31/51)[0K[1G[?25h[?25lCounting objects:  62% (32/51)[0K[1G[?25h[?25lCounting objects:  64% (33/51)[0K[1G[?25h[?25lCounting objects:  66% (34/51)[0K[1G[?25h[?25lCounting objects:  68% (35/51)[0K[1G[?25h[?25lCounting objects:  70% (36/51)[0K[1G[?25h[?25lCounting objects:  72% (37/51)[0K[1G[?25h[?25lCounting objects:  74% (38/51)[0K[1G[?25h[?25lCounting objects:  76% (39/51)[0K[1G[?25h[?25lCounting objects:  78% (40/51)[0K[1G[?25h[?25lCounting objects:  80% (41/51)[0K[1G[?25h[?25lCounting objects:  84% (43/51)[0K[1G[?25h[?25lCounting objects:  90% (46/51)[0K[1G[?25h[?25lCounting objects:  92% (47/51)[0K[1G[?25h[?25lCounting objects:  96% (49/51)[0K[1G[?25h[?25lCounting objects:  98% (50/51)[0K[1G[?25hCounting objects: 100% (51/51), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  11% (4/34)[0K[1G[?25h[?25lCompressing objects:  14% (5/34)[0K[1G[?25h[?25lCompressing objects:  23% (8/34)[0K[1G[?25h[?25lCompressing objects:  29% (10/34)[0K[1G[?25h[?25lCompressing objects:  35% (12/34)[0K[1G[?25h[?25lCompressing objects:  38% (13/34)[0K[1G[?25h[?25lCompressing objects:  41% (14/34)[0K[1G[?25h[?25lCompressing objects:  44% (15/34)[0K[1G[?25h[?25lCompressing objects:  47% (16/34)[0K[1G[?25h[?25lCompressing objects:  52% (18/34)[0K[1G[?25h[?25lCompressing objects:  55% (19/34)[0K[1G[?25h[?25lCompressing objects:  58% (20/34)[0K[1G[?25h[?25lCompressing objects:  67% (23/34)[0K[1G[?25h[?25lCompressing objects:  73% (25/34)[0K[1G[?25h[?25lCompressing objects:  76% (26/34)[0K[1G[?25h[?25lCompressing objects:  79% (27/34)[0K[1G[?25h[?25lCompressing objects:  82% (28/34)[0K[1G[?25h[?25lCompressing objects:  85% (29/34)[0K[1G[?25h[?25lCompressing objects:  88% (30/34)[0K[1G[?25h[?25lCompressing objects:  91% (31/34)[0K[1G[?25h[?25lCompressing objects:  94% (32/34)[0K[1G[?25h[?25lCompressing objects: 100% (34/34)[0K[1G[?25hCompressing objects: 100% (34/34), done.[0K[?25l
+[0K[?25h[?25lWriting objects:   8% (3/34)[0K[1G[?25h[?25lWriting objects:  17% (6/34)[0K[1G[?25h[?25lWriting objects:  20% (7/34)[0K[1G[?25h[?25lWriting objects:  26% (9/34)[0K[1G[?25h[?25lWriting objects:  29% (10/34)[0K[1G[?25h[?25lWriting objects:  32% (11/34)[0K[1G[?25h[?25lWriting objects:  44% (15/34)[0K[1G[?25h[?25lWriting objects:  67% (23/34)[0K[1G[?25h[?25lWriting objects:  82% (28/34)[0K[1G[?25hWriting objects: 100% (34/34), 6.52 KiB | 9.00 KiB/s, done.[0K[?25l
+Total 34 (delta 16), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  56% (9/16)[0K[1G[?25hremote: Resolving deltas: 100% (16/16), completed with 8 local objects.[0K[?25l
+[0K[?25hTo https://github.com/iecastro/iecastro.github.io.git[0K[?25l
+   3f0c838..28c9540  master -> master[0K
+[0K[?25hBranch 'master' set up to track remote branch 'master' from 'origin'.[0K[?25l
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25h[?25l-[0K[12G[?25h[13G[?25l$ git add --A[0K[?25h[?25l$ git add --[0K[?25ha[0Kl[0Kl[0K[?25l
 [0K[?25h
