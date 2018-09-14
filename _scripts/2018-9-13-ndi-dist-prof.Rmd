@@ -24,7 +24,7 @@ There is quite a bit of prep work before being able to calculate distances. I wo
 3. Create deprivation index and join to census tracts
 4. Do a spatial filter of census-tracts within NY metros
 
-So far, I've been reffering to *metros* interchangeably. Really, there are distinctions between metropolitan and micropolitan areas. There are also definitions for core-based statistical areas (CBSA) which refers to a metro- OR micro- area, and combine statistical areas (CSA) which refers to a metro- AND micro- area. There are also primary statistical areas (PSA), which are all the CSAs plus the CBSAs that are not part of a CSA. It's a headache, really. Also, the [federal statistical system](https://en.wikipedia.org/wiki/Federal_Statistical_System_of_the_United_States) creates products and collects data for these geographies, yet, somehow, these definitions are created by the White House's [budget office](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/bulletins/2017/b-17-01.pdf).
+So far, I've been referring to *metros* interchangeably. Really, there are distinctions between metropolitan and micropolitan areas. There are also definitions for core-based statistical areas (CBSA) which refers to a metro- OR micro- area, and combine statistical areas (CSA) which refers to a metro- AND micro- area. There are also primary statistical areas (PSA), which are all the CSAs plus the CBSAs that are not part of a CSA. It's a headache, really. Also, the [federal statistical system](https://en.wikipedia.org/wiki/Federal_Statistical_System_of_the_United_States) creates products and collects data for these geographies, yet, somehow, these definitions are created by the White House's [budget office](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/bulletins/2017/b-17-01.pdf).
 
 Anyways, I've digressed. So, after filtering and joining the data, I can plot levels of deprivation across CBSAs in NYS. (This map is not inclusive of all CBSAs in NY)
 
@@ -46,7 +46,7 @@ I don't know about you, but I find this plot really gratifying.
 
 This data is showing us a really interesting dynamic. Deprivation is really high close to center (inner city), and sharply drops (inner suburbs); then about 10 km from the center, deprivation starts increasing again, but, does not reach levels seen at the urban core.
 
-I wanted to further explore this data, so I narrowed my focus to the four major Upstate areas (of course, everything I just wrote after *four* is highly subjective and arbitrary). [What is Upsate New York?](https://www.washingtonpost.com/news/the-fix/wp/2016/04/19/so-what-is-upstate-new-york-exactly/?utm_term=.744abe9b3fe3).
+I wanted to further explore this data, so I narrowed my focus to the four major Upstate areas (of course, everything I just wrote after *four* is highly subjective and arbitrary). [What is Upstate New York?](https://www.washingtonpost.com/news/the-fix/wp/2016/04/19/so-what-is-upstate-new-york-exactly/?utm_term=.744abe9b3fe3).
 
 ![<img src="https://iecastro.github.io/images/biggie.jpg" alt="biggie" style="width: 400px;"/>](/images/biggie.jpg)
 
