@@ -1,6 +1,6 @@
 ---
 layout: blog_index
-title: Posts
+title: Blog
 permalink: /blog/
 ---
 
