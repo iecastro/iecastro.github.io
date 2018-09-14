@@ -33,10 +33,7 @@
           </div>
           
           <nav>
-<<<<<<< HEAD
             <a href="{{ site.baseurl }}/blog">Posts</a>
-=======
->>>>>>> 3f0c83880f7ec0da80aad3e94a5ef5aa2f0e956d
             <a href="{{ site.baseurl }}/about">About</a>
             <a href="{{ site.baseurl }}/indexbrief">Index</a>
             <a href="{{ site.baseurl }}/tags">Tags</a>
