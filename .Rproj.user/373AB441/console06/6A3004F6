@@ -1294,4 +1294,67 @@ Total 109 (delta 36), reused 0 (delta 0)[0K
 [0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
 [0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hit[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0K[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0K[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[?25l$ git commit[0K[14G[?25h[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add -[0K[?25hA[0K[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/7620C1D5.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/INDEX.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/prop/E5F43AF0.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-FDA8FBAD/A97BF43[0K4[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-FDA8FBAD/A97BF43[0K4[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-FDA8FBAD/C2DEAE0[0KB[?25l
+.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/373AB441/sources/s-FDA8FBAD/C2DEAE0[0KB[?25l
+-contents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hp[0Kos[0Kt[0K[23G[?25l$ git commit -m "post f[0K[?25hi[0Kg[0K[27G[?25l$ git commit -m "post fig o[0K[?25ha[0K[?25l$ git commit -m "post fig o[0K[?25h[?25l$ git commit -m "post fig[0K[27G[?25h[?25l$ git commit -m "post fig p[0K[?25ha[0Kt[0Kh[0K"[0K[?25l
+[0K[?25h[master 1b74238] post fig path[0K[?25l
+ 11 files changed, 354 insertions(+), 30 deletions(-)[0K
+ create mode 100644 .Rproj.user/373AB441/sources/prop/E5F43AF0[0K
+ delete mode 100644 .Rproj.user/373AB441/sources/s-FDA8FBAD/12EA3D36[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-FDA8FBAD/A97BF434[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-FDA8FBAD/A97BF434-contents[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-FDA8FBAD/C2DEAE0B[0K
+ create mode 100644 .Rproj.user/373AB441/sources/s-FDA8FBAD/C2DEAE0B-contents[0K
+ delete mode 100644 .Rproj.user/shared/notebooks/9892F2BB-2018-9-25-Veteran-unemploymen[0Kt
+/1/373AB441FDA8FBAD/chunks.json[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "post fig path"[0K[?25h[?25l$ git add -A[0K[?25h[?25l$ git push origin master[0K[?25h[?25l$ git status[0K[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25h[?25lEnumerating objects: 1[0K[1G[?25hEnumerating objects: 35, done.[0K[?25l
+[0K[?25h[?25lCounting objects:   5% (2/35)[0K[1G[?25h[?25lCounting objects:  11% (4/35)[0K[1G[?25h[?25lCounting objects:  17% (6/35)[0K[1G[?25h[?25lCounting objects:  22% (8/35)[0K[1G[?25h[?25lCounting objects:  31% (11/35)[0K[1G[?25h[?25lCounting objects:  34% (12/35)[0K[1G[?25h[?25lCounting objects:  42% (15/35)[0K[1G[?25h[?25lCounting objects:  45% (16/35)[0K[1G[?25h[?25lCounting objects:  51% (18/35)[0K[1G[?25h[?25lCounting objects:  60% (21/35)[0K[1G[?25h[?25lCounting objects:  68% (24/35)[0K[1G[?25h[?25lCounting objects:  77% (27/35)[0K[1G[?25h[?25lCounting objects:  82% (29/35)[0K[1G[?25h[?25lCounting objects:  88% (31/35)[0K[1G[?25h[?25lCounting objects:  97% (34/35)[0K[1G[?25hCounting objects: 100% (35/35), done.[0K[?25l
+Delta compression using up to 4 threads.[0K
+Compressing objects:  11% (2/17)[0K[1G[?25h[?25lCompressing objects:  23% (4/17)[0K[1G[?25h[?25lCompressing objects:  29% (5/17)[0K[1G[?25h[?25lCompressing objects:  41% (7/17)[0K[1G[?25h[?25lCompressing objects:  47% (8/17)[0K[1G[?25h[?25lCompressing objects:  52% (9/17)[0K[1G[?25h[?25lCompressing objects:  58% (10/17)[0K[1G[?25h[?25lCompressing objects:  70% (12/17)[0K[1G[?25h[?25lCompressing objects:  82% (14/17)[0K[1G[?25h[?25lCompressing objects:  88% (15/17)[0K[1G[?25h[?25lCompressing objects:  94% (16/17)[0K[1G[?25hCompressing objects: 100% (17/17), done.[0K[?25l
+[0K[?25h[?25lWriting objects:  25% (5/20)[0K[1G[?25h[?25lWriting objects:  30% (6/20)[0K[1G[?25h[?25lWriting objects:  60% (12/20)[0K[1G[?25h[?25lWriting objects:  75% (15/20)[0K[1G[?25hWriting objects: 100% (20/20), 6.05 KiB | 28.00 KiB/s, done.[0K[?25l
+Total 20 (delta 9), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  33% (3/9)[0K[1G[?25h[?25lremote: Resolving deltas:  77% (7/9)[0K[1G[?25hremote: Resolving deltas: 100% (9/9), completed with 8 local objects.[0K[?25l
+[0K[?25hTo https://github.com/iecastro/iecastro.github.io.git[0K[?25l
+   012d20a..1b74238  master -> master[0K
+[0K[?25h[?25l
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.i[0Ko
+[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l[14A[0;36m (master)[0K
+[0m$ git push origin master[0K
+Enumerating objects: 35, done.[0K
+Counting objects: 100% (35/35), done.[0K
+Delta compression using up to 4 threads.[0K
+Compressing objects: 100% (17/17), done.[0K
+Writing objects: 100% (20/20), 6.05 KiB | 28.00 KiB/s, done.[0K
+Total 20 (delta 9), reused 0 (delta 0)[0K
+remote: Resolving deltas: 100% (9/9), completed with 8 local objects.[0K
+To https://github.com/iecastro/iecastro.github.io.git[0K
+   012d20a..1b74238  master -> master[0K
+[0K
+[0;32miecastro@FALK-PH-NSF-L10 [0;35m [0;33m//hd.ad.syr.edu/02/c3964a/Documents/Desktop/iecastro.github.[0Ki
+o[0;36m (master)[0K
+[0m$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l$ git commit -m "post fig path"[0K[?25h[?25l$ git add -A[0K[?25h[?25l
 [0K[?25h
