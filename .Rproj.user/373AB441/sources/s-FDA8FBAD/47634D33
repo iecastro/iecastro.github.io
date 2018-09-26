@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537227868766.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "47634D33",
+    "lastKnownWriteTime" : 1536950963,
+    "last_content_update" : 1536950963,
+    "path" : "~/Desktop/DataProjects/veteran-unemployment/R scripts/employ status.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "11,52",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
