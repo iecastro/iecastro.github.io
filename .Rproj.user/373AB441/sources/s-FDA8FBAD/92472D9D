@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1537227889658.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "92472D9D",
     "lastKnownWriteTime" : 1537319042,
-    "last_content_update" : 1537319042236,
+    "last_content_update" : 1537930670353,
     "path" : "~/Desktop/DataProjects/veteran-unemployment/R scripts/odd ratios & logit.R",
     "project_path" : null,
     "properties" : {
-        "cursorPosition" : "124,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "104,0",
+        "scrollLine" : "88"
     },
     "relative_order" : 4,
     "source_on_save" : false,

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537930720045.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "891FAF00",
+    "lastKnownWriteTime" : 1536759973,
+    "last_content_update" : 1536759973,
+    "path" : "~/Desktop/DataProjects/veteran-unemployment/R scripts/bls scrape.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "18,18",
+        "scrollLine" : "3"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -139,3 +139,4 @@ The NYS Department of Labor derived annual averages from [Current Population Sur
 
 To calculate odds ratios for 2015 and 2017, the number unemployed was imputed by subtracting the number employed from the labor force count.
 
+Data and R code are posted in [GitHub](https://github.com/iecastro/veteran-unemployment)
